@@ -38,7 +38,7 @@ public class PlusOne {
         printArray(plusOne(digits3)); // [1, 0]
     }
 
-    // Helper method to print array
+    // Helper method to print an array
     public static void printArray(int[] arr) {
         for (int num : arr) {
             System.out.print(num + " ");
