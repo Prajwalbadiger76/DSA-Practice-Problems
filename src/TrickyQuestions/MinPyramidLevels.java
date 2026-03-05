@@ -35,6 +35,7 @@ public class MinPyramidLevels {
 //Test Case 1
 //Input : 14
 //Output : 5
+//Explanation -> 1+2+3+4+5 = 15
 //
 //Test Case 2
 //Input : 6
